@@ -1,0 +1,10 @@
+D:\C#\Transfer Factor\Transfer Factor\bin\Debug\Transfer Factor.exe.config
+D:\C#\Transfer Factor\Transfer Factor\bin\Debug\Transfer Factor.exe
+D:\C#\Transfer Factor\Transfer Factor\bin\Debug\Transfer Factor.pdb
+D:\C#\Transfer Factor\Transfer Factor\obj\Debug\Transfer Factor.csprojAssemblyReference.cache
+D:\C#\Transfer Factor\Transfer Factor\obj\Debug\Transfer_Factor.Form1.resources
+D:\C#\Transfer Factor\Transfer Factor\obj\Debug\Transfer_Factor.Properties.Resources.resources
+D:\C#\Transfer Factor\Transfer Factor\obj\Debug\Transfer Factor.csproj.GenerateResource.cache
+D:\C#\Transfer Factor\Transfer Factor\obj\Debug\Transfer Factor.csproj.CoreCompileInputs.cache
+D:\C#\Transfer Factor\Transfer Factor\obj\Debug\Transfer Factor.exe
+D:\C#\Transfer Factor\Transfer Factor\obj\Debug\Transfer Factor.pdb
